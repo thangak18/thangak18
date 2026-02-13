@@ -59,13 +59,24 @@
 
 ---
 
-### 📈 Contribution Graph
+### � Achievements
 
 <div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/thangak18)
+<!-- You can swap the above static badge for a dynamic one if you have a LeetCode username: 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thangak18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/thangak18)
+-->
+
+<br/>
 
 [![Thangak18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thangak18&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+### 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/thangak18/thangak18/output/github-contribution-grid-snake.svg" alt="snake animation" />
