@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Thangak18;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Thang;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Opportunities" />
@@ -14,7 +14,7 @@
   <table style="border: none; background-color: transparent;">
     <tr>
       <td style="border: none; background-color: transparent; padding-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=thangak18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="thangak18's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=thangak18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="thangak18's GitHub stats" />
       </td>
       <td style="border: none; background-color: transparent;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangak18&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="thangak18's GitHub streak" />
@@ -56,15 +56,6 @@
 </p>
 
 </div>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Project 1** | Description of project 1. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Project 2** | Description of project 2. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
 
 ---
 
