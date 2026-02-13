@@ -29,13 +29,23 @@
 
 <div align="center">
 
-| | |
-| :--- | :--- |
-| 🎓 **Student** | HCMUS |
+| 👨‍💻 **Software Engineer** | Learning and growing every day |
 | 📍 **Location** | Vietnam 🇻🇳 |
 | 💻 **Focus** | Web Development, Algorithms |
 | 🚀 **Goals** | Building useful and beautiful applications |
-| ⚡ **Fun Fact** | I love coding, game and coffee ☕ |
+| ⚡ **Fun Fact** | I love coding and coffee ☕ |
+
+</div>
+
+<br/>
+
+### 🌟 Community
+
+<div align="center">
+
+[![GDG](https://img.shields.io/badge/Google%20Developer%20Group-HCMC-4285F4?style=for-the-badge&logo=google-developers&logoColor=white)](https://gdg.community.dev/)
+
+**Active member focusing on Google technologies, collaborative learning & developer practices**
 
 </div>
 
@@ -63,7 +73,7 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/thangak18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/thangnguyen23/)
 <!-- You can swap the above static badge for a dynamic one if you have a LeetCode username: 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thangak18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/thangak18)
 -->
@@ -81,3 +91,28 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/thangak18/thangak18/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](http://web.facebook.com/nguyen.thang.739214/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thang23.25/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangak18@gmail.com)
+
+**Open for: Software Engineering Projects • Collaboration**
+
+<br/>
+
+*"Code with purpose, build with passion"*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thangak18&color=blue&style=flat-square&label=Profile+views) 
+![Followers](https://img.shields.io/github/followers/thangak18?label=Followers&style=flat-square&color=blue)
+
+</div>
+
+
