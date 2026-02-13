@@ -1,6 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Thang;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Opportunities" />
