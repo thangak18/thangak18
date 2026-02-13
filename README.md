@@ -31,11 +31,11 @@
 
 | | |
 | :--- | :--- |
-| 🎓 **Student** | Learning and growing every day |
+| 🎓 **Student** | HCMUS |
 | 📍 **Location** | Vietnam 🇻🇳 |
 | 💻 **Focus** | Web Development, Algorithms |
 | 🚀 **Goals** | Building useful and beautiful applications |
-| ⚡ **Fun Fact** | I love coding and coffee ☕ |
+| ⚡ **Fun Fact** | I love coding, game and coffee ☕ |
 
 </div>
 
